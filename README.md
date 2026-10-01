@@ -65,7 +65,7 @@ EDA helps us understand the data before training a model.
 
 ### Graph 1: Monthly Sales Trend
 
-![Monthly Sales Trend](images/figure_1.png)
+![Monthly Sales Trend](images/Figure_1.png)
 
 **Purpose:**
 
