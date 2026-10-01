@@ -1,0 +1,27 @@
+# Virtual environment
+myenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (large file)
+retail_sales.csv
+
+# Saved model
+retail_model.pkl
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
