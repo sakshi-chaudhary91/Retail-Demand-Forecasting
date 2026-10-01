@@ -83,7 +83,7 @@ Monthly trends can reveal patterns that may be useful when creating time-based f
 
 ### Graph 2: Yearly Sales
 
-![Yearly Sales](images/figure_2.png)
+![Yearly Sales](images/Figure_2.png)
 
 **Purpose:**
 
@@ -188,7 +188,7 @@ The goal was to control model complexity and compare the result with the default
 
 ### Graph 3: Validation Model Comparison
 
-![Validation Model Comparison](images/figure_3.png)
+![Validation Model Comparison](images/Figure_3.png)
 
 **Purpose:**
 
@@ -247,7 +247,7 @@ This shows that the trained model performed better than the simple previous-day-
 
 ### Graph 4: Actual vs Predicted Sales
 
-![Actual vs Predicted Sales](images/figure_4.png)
+![Actual vs Predicted Sales](images/Figure_4.png)
 
 **Purpose:**
 
@@ -265,7 +265,7 @@ A visual comparison helps identify prediction patterns that a single evaluation 
 
 ### Graph 5: Residual Analysis
 
-![Residual Plot](images/figure_5.png)
+![Residual Plot](images/Figure_5.png)
 
 **Purpose:**
 
@@ -289,7 +289,7 @@ Residual analysis helps identify possible systematic prediction errors and areas
 
 ### Graph 6: Feature Importance
 
-![Feature Importance](images/figure_6.png)
+![Feature Importance](images/Figure_6.png)
 
 Feature importance helps identify which input features contributed most to the Random Forest's predictions.
 
@@ -337,7 +337,7 @@ For future predictions, the latest known price and promotion value were kept con
 
 ### Graph 7: Seven-Day Forecast
 
-![Seven-Day Forecast](images/figure_7.png)
+![Seven-Day Forecast](images/Figure_7.png)
 
 **Purpose:**
 
@@ -424,7 +424,7 @@ The dataset and saved model are excluded from the Git repository because they ca
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/sakshi-chaudhary91/Retail-Demand-Forecasting.git>
 ```
 
 ### Step 2: Navigate to the Project
