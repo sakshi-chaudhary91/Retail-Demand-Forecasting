@@ -188,7 +188,7 @@ The goal was to control model complexity and compare the result with the default
 
 ### Graph 3: Validation Model Comparison
 
-![Validation Model Comparison](images/Figure_3.png)
+![Validation Model Comparison](images/Figure_4.png)
 
 **Purpose:**
 
@@ -247,7 +247,7 @@ This shows that the trained model performed better than the simple previous-day-
 
 ### Graph 4: Actual vs Predicted Sales
 
-![Actual vs Predicted Sales](images/Figure_4.png)
+![Actual vs Predicted Sales](images/Figure_6.png)
 
 **Purpose:**
 
@@ -289,7 +289,7 @@ Residual analysis helps identify possible systematic prediction errors and areas
 
 ### Graph 6: Feature Importance
 
-![Feature Importance](images/Figure_6.png)
+![Feature Importance](images/Figure_8.png)
 
 Feature importance helps identify which input features contributed most to the Random Forest's predictions.
 
